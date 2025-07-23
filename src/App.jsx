@@ -2,45 +2,45 @@
 function App() {
   return (
     <div>
-      <p>عمليات الإزالة والمطالبات المضادة بموجب إشعارات قانون حقوق الطبع والنشر الرقمية للألفية (DMCA)</p>
-<p>يأخذ DistroKid حقوق الملكية الفكرية على محمل الجدّ. وللحفاظ على الامتثال القانوني وأفضل الممارسات ونزاهة الخدمات، يعمل DistroKid باستمرار لضمان أنّ يقوم مستخدمينا بتحميل المحتوى الّذي يملكون حقوق نشره بنسبة 100% فقط. 
+      <p>DMCA Takedowns and Counterclaims</p>
+<p>DistroKid takes intellectual property rights seriously. To maintain legal compliance, best practices, and the integrity of its services, DistroKid is constantly working to ensure that our users are only uploading content they have 100% rights to. 
 </p>
 <p>
- إذا كنت تعتقد بأنّ أيّ محتوى على خدماتنا ينتهك حقوق الطبع والنشر الخاصّة بك أو بأيّ شخص تمثّله، يرجى الاطّلاع على شروط الخدمة الخاصّة بنا 
-<a href="https://distrokid.com/terms/" target="_self">هنا</a>. يمكن للمدّعين التواصل مع وكيل حقوق الطبع والنشر المعيّن لدينا أو استخدام موقعنا لتقديم تقرير عن الانتهاك المزعوم لحقوق الطبع والنشر 
-<a href="https://airtable.com/shr5YDYpa1guIV81Q" target="_self">هنا</a>. 
+ If you believe that any content on our services infringes upon your copyright or the copyright of someone you represent, please see our Terms of Service 
+<a href="https://distrokid.com/terms/" target="_self">here</a>. Claimants may contact our Designated Copyright Agent or use our webform to submit a report of alleged copyright infringement 
+<a href="https://airtable.com/shr5YDYpa1guIV81Q" target="_self">here</a>. 
 </p>
 <p>
- إذا تمّ تحميل المحتوى المنتهك للحقوق باستخدام خدمة غير DistroKid، فلا يمكننا المساعدة. يمكنك في هذه الحالة التواصل مع كلّ خدمة بث بطلب إزالة عبر DMCA. 
+ If the infringing content was uploaded using a service other than DistroKid, we are unable to assist – you can then reach out to each streaming service with a DMCA takedown request. 
 </p>
 <p>
- إذا كان لديك اعتقاد صادق بأنّ محتواك أو المادّة الخاصّة بك تمّت إزالتها من DistroKid نتيجةً لخطأ في التعريف أو خطأ آخر، فيمكنك تقديم إشعار مضاد لوكيل حقوق الطبع والنشر المعيّن لدينا، كما هو محدّد في شروط الخدمة. 
+ If you have a good faith belief that your content or material was removed from DistroKid as a result of a misidentification or mistake, you may submit a counter-notice to our Designated Copyright Agent, as identified in the Terms of Service. 
 </p>
 <p>&nbsp;</p>
 <h1 id="h_01JPJXCJDYKDVFA5NMWMBV18TG">
- لقد تمّ تحميل محتواك أو المادّة الخاصّة بك باستخدام خدمة غير DistroKid 
+ Your Content or Material Was Uploaded Using a Service Other Than DistroKid 
 </h1>
 <p>
- إذا قام شخص ما بتحميل ملكيتك الفكرية باستخدام خدمة غير DistroKid، فهذا أمر لا يمكننا المساعدة فيه مع الأسف. ورغم ذلك، يمكنك التواصل مع كلّ خدمة بث باستخدام طلب الإزالة عبر DMCA. ربّما تحتاج إلى البحث عن الإجراءات المتّبعة لكلّ خدمة بشأن الإزالة عبر DMCA، ولكن إليك روابط للإجراءات الّتي نعرفها: 
+ If someone has uploaded your intellectual property using a service other than DistroKid, that's unfortunately not something that we can help with. However, you can reach out to each streaming service with a DMCA takedown request. You might need to research each service's process regarding a DMCA Takedown, but here are links to processes we're aware of: 
 </p>
 <p>
-    <strong>Spotify: </strong><a href="https://www.spotify.com/us/legal/infringement-form" target="_self" dir="RTL">https://www.spotify.com/us/legal/infringement-form</a><br />
+    <strong>Spotify: </strong><a href="https://www.spotify.com/us/legal/infringement-form/" target="_self" dir="LTR">https://www.spotify.com/us/legal/infringement-form/</a><br />
     <strong>iTunes/Apple Music:</strong>
-    <a href="https://www.apple.com/legal/internet-services/itunes/itunesstorenotices" target="_self" dir="RTL">https://www.apple.com/legal/internet-services/itunes/itunesstorenotices</a><br />
+    <a href="https://www.apple.com/legal/internet-services/itunes/itunesstorenotices/" target="_self" dir="LTR">https://www.apple.com/legal/internet-services/itunes/itunesstorenotices/</a><br />
     <strong>YouTube:</strong>
-    <a href="https://support.google.com/legal/troubleshooter/1114905?hl=ar&amp;sjid=945387575311837502-EU" target="_self" dir="RTL">https://support.google.com/legal/troubleshooter/1114905?hl=ar&amp;sjid=945387575311837502-EU</a><br />
-    <strong>Amazon: </strong>
+    <a href="https://support.google.com/legal/troubleshooter/1114905" target="_self" dir="LTR">https://support.google.com/legal/troubleshooter/1114905</a><br />
+    <strong>Amazon:</strong>
     <a href="https://www.amazon.com/report/infringement" target="_self">https://www.amazon.com/report/infringement</a><br />
 </p>
 <p>&nbsp;</p>
 <h1 id="h_01JPJXG8BQGBZVMPG1BXXV8N41">
- تمّت إزالة محتواك أو المادّة الخاصّة بك من DistroKid بسبب مطالبات حقوق الطبع والنشر 
+ Your Content or Material was Removed from DistroKid due to Copyright Claims 
 </h1>
-<p>وفقا لقانون الألفية للحقوق الرقمية (DMCA)، يقبل DistroKid الإشعارات المضادة لتقارير انتهاك حقوق الطبع والنشر. وبالرغم من أنّنا غير قادرين على تقدم أيّ مشورة قانونية، فإذا كان لديك اعتقاد صادق بأنّ محتواك أو المادة الخاصّة بك قد تمّت إزالتها نتيجةً لخطأ في التعريف أو خطأ آخر، يمكنك تقديم الإشعار المضاد الخاصّ بك إلى وكيل حقوق الطبع والنشر المعيّن لدينا كما هو محدّد في شروط الخدمة 
-<a href="https://distrokid.com/terms/" target="_self">هنا</a>. 
+<p>In accordance with the DMCA, DistroKid accepts counter-notices for copyright infringement reports. Although we are unable to provide any legal advice, if you have a good faith belief that your content or material was removed as a result of a misidentification or mistake, you may submit your counter-notice to our Designated Copyright Agent as identified in the Terms of Service 
+<a href="https://distrokid.com/terms/" target="_self">here</a>. 
 </p>
 <p>
- إذا قمت بتقديم معلومات مضلّلة بشأن عدم انتهاك المحتوى لأيّ حقوق أو القيام بأيّ ادّعاءات زائفة أخرى، فقد تكون مسؤولا عن أيّ أضرار (بما في ذلك التكاليف وأتعاب المحاماة). قد تؤدّي الإشعارات المضادّة الاحتيالية أو المسيئة أو أيّ استخدام مسيء لخدمات DistroKid إلى إنهاء الحساب أو عواقب قانونية أخرى. 
+ If you misrepresent that the content or material is not infringing or make other false representations, you may be liable for damages (including costs and attorneys' fees). Fraudulent or abusive counter-notices or other misuse of DistroKid's services may result in account termination or other legal consequences. 
 </p>
     </div>
   )
