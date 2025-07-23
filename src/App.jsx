@@ -1,8 +1,9 @@
+import './App.css'
 
 function App() {
   return (
-    <div>
-      <p>DMCA Takedowns and Counterclaims</p>
+    <div className="container">
+      <p className="title">DMCA Takedowns and Counterclaims</p>
 <p>DistroKid takes intellectual property rights seriously. To maintain legal compliance, best practices, and the integrity of its services, DistroKid is constantly working to ensure that our users are only uploading content they have 100% rights to. 
 </p>
 <p>
